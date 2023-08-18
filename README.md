@@ -1,9 +1,7 @@
 Web Developer
 -------------
 
-![](https://komarev.com/ghpvc/?username=amitverma0517&color=blue)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/90f4b019-6f1e-4cde-a7af-794f17c2ab43/deploy-status)](https://app.netlify.com/sites/amit-verma/deploys)
+![](https://komarev.com/ghpvc/?username=amitverma0517&color=blue)  [![Netlify Status](https://api.netlify.com/api/v1/badges/90f4b019-6f1e-4cde-a7af-794f17c2ab43/deploy-status)](https://app.netlify.com/sites/amit-verma/deploys)
 
 - 👋 Hi, I’m @amitverma0517
 - 👀 I’m interested in developing websites and writing quotes.

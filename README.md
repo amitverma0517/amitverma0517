@@ -8,7 +8,7 @@ Web Developer
 - 🌱 I’m currently learning React.
 - 📫 You can reach out to me through any of the social links provided.
 
-check out my profile https://amit-verma.netlify.app/
+check out my profile https://amitverma.netlify.app/
 <!---
 amitverma0517/amitverma0517 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

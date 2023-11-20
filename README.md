@@ -1,6 +1,6 @@
 Web Developer
 ---------------------
-- 👋 Hi, I’m @amitverma0517
+- 👋 Hi, I’m Amit Verma
 - 👀 I’m interested in developing websites and writing quotes.
 - 🌱 I’m currently learning Node.js
 - 📫 You can reach out to me through any of the social links provided.
